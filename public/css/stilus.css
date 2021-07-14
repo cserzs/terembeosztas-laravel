@@ -1,0 +1,41 @@
+.home-title {
+    vertical-align: baseline;
+}
+a.home-enter-link:hover {
+    text-decoration: underline;
+}
+
+.loginform div.control {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.catalog-table td {
+    vertical-align: middle;
+    min-height: 45px;
+}
+.catalog-cell > div.column {
+    padding: 0;
+    margin: 15px;
+
+}
+div.catalog-cell > div.hatarolo {
+    border-right: 1px #000 solid;
+}
+
+div.catalog-cell > div.hatarolo:last-child {
+    border-right: 0px #000 solid;
+}
+
+.proba {
+    color: #ff0000;
+    font-size: 0.8em;
+}
+
+.navbar-bg-color {
+    background-color: #e3f2fd;
+}
+
+table.adattabla th {
+    color: #ffffff !important; 
+}
